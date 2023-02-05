@@ -1,0 +1,115 @@
+/* .navv{
+    color: blue;
+    background-color: blue;
+    
+} */
+body{
+    height: 100%;
+    width: 100%;
+}
+.insidebox{
+    border: 5px solid black;
+    width: 31.5rem;
+    height: 35rem;;
+    margin: 10rem 37%;
+    border-radius: 4rem;
+    position: absolute;
+    background-color: aqua;    
+}
+.form_login{
+   margin: 2rem;
+   /* width: 10rem;
+    height: 15rem;; */
+   /* border: 5px solid red; */
+    
+}
+.container{
+    margin-top: 3rem;
+    margin-right: 0rem;
+    display: flex;
+    align-items: auto;
+    /* border: 5px solid red; */
+
+    /* align-content: center; */
+    flex-wrap: wrap;
+
+
+}
+
+.icon{
+
+    height: 4rem;
+    width: 4rem;
+    align-self: center;
+    margin-left: 11rem;
+
+    
+}
+.item{
+    margin-left: 11rem;
+    margin-top: 2rem;
+    padding: 0.5rem 1rem;
+    justify-content: center;
+    /* align-self: center; */
+}
+.item1{
+    margin-left: 5.5rem;
+    font-weight: 600;
+    font-size: larger;
+    padding: 5px 10px;
+    border-radius: 10px;
+   
+ 
+    
+}
+
+.item2{
+    margin-left: 5.5rem;
+    font-size: larger;
+    font-weight: 600;
+    padding: 5px 10px;
+    border-radius: 10px;
+    
+}
+.item0{
+  margin: -1rem 5rem 0rem 5.5rem;
+  font-size: larger;
+  border-radius: 10px;
+  padding: 5px 5.3rem;
+}
+.item10{
+    font-size: larger;
+    font-weight: 600;
+    margin: 2rem 2rem 2rem 5.5rem;
+    
+}
+.button{
+   
+    border-radius: 1rem;
+    height: 3rem;
+    width: 5rem;
+    font-size: larger;
+    font-weight: 600;
+    pointer-events: fill;
+}
+
+.footer{
+    margin-top: 53rem;
+    margin-bottom: -0.5;
+    height: 4rem;
+    background-color: #7676b5;
+    padding: 1rem;
+    justify-content: center;
+    /* border: 0.5rem solid red; */
+}
+.foot{
+    color: aliceblue;
+    font-size: larger;
+    font-weight: 500;
+    margin-left:70%;
+}
+.navbar-dark, .bg-primary,.navbar-expand-lg{
+    color: #7676b5;
+    background: #7676b5;
+
+}
